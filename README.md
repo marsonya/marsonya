@@ -20,15 +20,7 @@ Here are some ideas to get you started:
   <a href="mailto:marsonya27@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
 </p>
 
- 
-<p align="left">
-- 🌱 I’m currently learning and implementing
-
-- 💬 Ask me about javascript
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=marsonya&show_icons=true" alt="marsonya" /></p> 
-
 ---
 
 <p align="center">
@@ -43,7 +35,8 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </p>
-
+<br>
+<br>
 ---
 
 <p align="center">
