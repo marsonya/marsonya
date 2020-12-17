@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=marsonya" alt="marsonya" />
+  <a href="mailto:marsonya27@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
+</p>
+
+ 
+<p align="left">
+- 🌱 I’m currently learning and implementing
+
+- 💬 Ask me about javascript
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itsvinayak&show_icons=true" alt="itsvinayak" /></p> 
