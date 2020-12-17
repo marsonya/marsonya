@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="mailto:marsonya27@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=marsonya&show_icons=true" alt="marsonya" /></p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=marsonya&show_icons=true&layout=compact&theme=dark&hide_border=true&hide_title=true&line_height=36" alt="marsonya" /></p> 
 
 ---
 
